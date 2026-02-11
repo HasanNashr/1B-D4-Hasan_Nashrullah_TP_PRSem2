@@ -1,0 +1,52 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "DataTypes",
+      "request": "launch",
+      "mainClass": "DataTypes",
+      "projectName": "Teknik Pemrograman Semester 2 Hasan Nashrullah_515851ad"
+    },
+    {
+      "type": "java",
+      "name": "Constants2",
+      "request": "launch",
+      "mainClass": "Constants2",
+      "projectName": "Teknik Pemrograman Semester 2 Hasan Nashrullah_515851ad"
+    },
+    {
+      "type": "java",
+      "name": "Constants",
+      "request": "launch",
+      "mainClass": "Constants",
+      "projectName": "Teknik Pemrograman Semester 2 Hasan Nashrullah_515851ad"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Teknik Pemrograman Semester 2 Hasan Nashrullah_515851ad"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Hasan Nashrullah/OneDrive - Politeknik Negeri Bandung/Documents/Teknik Pemrograman Semester 2 Hasan Nashrullah",
+      "program": "c:/Users/Hasan Nashrullah/OneDrive - Politeknik Negeri Bandung/Documents/Teknik Pemrograman Semester 2 Hasan Nashrullah/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
