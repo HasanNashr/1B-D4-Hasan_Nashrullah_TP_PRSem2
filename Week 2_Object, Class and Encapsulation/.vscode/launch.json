@@ -1,0 +1,31 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "RestaurantMain",
+      "request": "launch",
+      "mainClass": "RestaurantMain",
+      "projectName": "Week 2_Object, Class and Encapsulation_e508a1fe"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Hasan Nashrullah/OneDrive - Politeknik Negeri Bandung/Documents/TP_PR_Semester 2_Hasan Nashrullah_1B_D4/Week 2_Object, Class and Encapsulation",
+      "program": "c:/Users/Hasan Nashrullah/OneDrive - Politeknik Negeri Bandung/Documents/TP_PR_Semester 2_Hasan Nashrullah_1B_D4/Week 2_Object, Class and Encapsulation/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
